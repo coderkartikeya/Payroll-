@@ -1,0 +1,47 @@
+body { 
+    background-image: url('ss.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+
+}
+
+
+
+ .for {
+     background-color: lightblue;
+     margin: 7em;
+     padding: 4em;
+     overflow: hidden;
+     opacity: 0.8;
+     border-radius: 2em;
+
+
+
+
+}
+div form {
+    font-size: 2em;
+    text-align: inherit;
+
+
+
+
+
+}
+.form {
+    align-content: center;
+    font-size:30px
+
+
+
+}
+
+
+
+
+
+
+
+
+
